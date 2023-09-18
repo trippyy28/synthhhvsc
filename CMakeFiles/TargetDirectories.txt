@@ -1,0 +1,4 @@
+/Users/user/Desktop/synthhhvsc/CMakeFiles/AudioPluginTest.dir
+/Users/user/Desktop/synthhhvsc/CMakeFiles/test.dir
+/Users/user/Desktop/synthhhvsc/CMakeFiles/edit_cache.dir
+/Users/user/Desktop/synthhhvsc/CMakeFiles/rebuild_cache.dir
